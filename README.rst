@@ -20,7 +20,7 @@ Install
 
 .. code:: sh
 
-   pip install voicevox-client
+   pip install git+https://github.com/sonyakun/voicevox-client-aio
 
 All that!
 
